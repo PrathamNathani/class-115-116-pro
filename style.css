@@ -1,0 +1,23 @@
+h3{
+    font-size: 30px !important;
+}
+.btn-warning:hover{
+    background-color: crimson;
+}
+.btn-warning{
+    font-size: 25px;
+}
+canvas{
+    width: 100px;
+    height: 100px;
+    animation-name: exampless;
+    animation-duration: 4s;
+}
+
+@keyframes example {
+    from {box-shadow:  rgb(0, 238, 255);}
+    to {box-shadow: rgb(145, 255, 81);}
+  }
+  body{
+      text-align: center;
+  }
